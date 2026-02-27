@@ -176,7 +176,7 @@ function loadProjectDetail(projectId) {
     }
 
     // Update page title
-    document.title = `${project.title} | Arch67`;
+    document.title = `${project.title} | Eon Arc`;
 }
 
 // Load latest news on homepage
