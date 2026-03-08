@@ -2,9 +2,9 @@
 const projects = [
     {
         id: 1,
-        title: "Expo2020 - Chile Pavilion",
-        location: "Expo2020 - Dubai, UAE",
-        type: "cultural",
+        title: "Jammoul-Apartment",
+        location: "Rudamas-Beirut-Lebanon",
+        type: "Residential",
         featured: true,
         description: "The Chile Pavilion at Expo 2020 Dubai showcased the country’s creativity, culture, and innovation. Inspired by Chile’s Antarctic landscapes, the pavilion combined an exhibition space with offices for the Chilean delegation. Visitors explored interactive displays about Chile’s natural beauty, sustainability, food, renewable energy, and technology. The design featured warm Chilean wood, copper finishes, and artistic installations made from recycled materials. A striking entrance with large wooden penguins welcomed guests and set the tone for an engaging cultural experience. Inside, digital screens and immersive displays brought Chile’s stories to life. The space was also designed to host meetings, events, and official gatherings. With a total value of AED 7.8 million, the project reflected careful design, coordination, and execution to represent Chile proudly on the world stage at Expo 2020.",
         details: {
