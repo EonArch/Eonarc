@@ -16,7 +16,7 @@ const projects = [
             "Awards": "Expo 2020 Sustainability Recognition (Participant Pavilion)"
         },
         images: [
-            "assets/images/projects/Chile Pavilion/C-1.jpg",
+            "assets/images/Jammoul/17-.jpg",
             "assets/images/projects/Chile Pavilion/C-2.jpg",
             "assets/images/projects/Chile Pavilion/C-3.jpg"
         ]
