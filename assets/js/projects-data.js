@@ -5,7 +5,7 @@ const projects = [
         title: "Jammoul-Apartment",
         location: "Rudamas-Beirut-Lebanon",
         type: "Residential",
-        featured: False,
+        featured: true,
         description: "Project Concept — Warm Modern Continuity
 This apartment is conceived as a study in balance — between softness and structure, minimalism and warmth, precision and atmosphere. The architectural language is grounded in clean geometry and disciplined lines, yet enriched with natural materials that introduce depth, tactility, and emotional resonance.
 Vertical wooden slats and full-height panels create a rhythmic architectural backdrop that unifies the spaces. Rather than treating walls as simple partitions, they become continuous surfaces — spatial elements that conceal storage, integrate technology, and frame focal points. The design avoids visual noise; every line has intention, every junction is resolved with clarity.
