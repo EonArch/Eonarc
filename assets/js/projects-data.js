@@ -5,20 +5,48 @@ const projects = [
         title: "Jammoul-Apartment",
         location: "Rudamas-Beirut-Lebanon",
         type: "Residential",
-        featured: true,
-        description: "The Chile Pavilion at Expo 2020 Dubai showcased the country’s creativity, culture, and innovation. Inspired by Chile’s Antarctic landscapes, the pavilion combined an exhibition space with offices for the Chilean delegation. Visitors explored interactive displays about Chile’s natural beauty, sustainability, food, renewable energy, and technology. The design featured warm Chilean wood, copper finishes, and artistic installations made from recycled materials. A striking entrance with large wooden penguins welcomed guests and set the tone for an engaging cultural experience. Inside, digital screens and immersive displays brought Chile’s stories to life. The space was also designed to host meetings, events, and official gatherings. With a total value of AED 7.8 million, the project reflected careful design, coordination, and execution to represent Chile proudly on the world stage at Expo 2020.",
+        featured: False,
+        description: "Project Concept — Warm Modern Continuity
+This apartment is conceived as a study in balance — between softness and structure, minimalism and warmth, precision and atmosphere. The architectural language is grounded in clean geometry and disciplined lines, yet enriched with natural materials that introduce depth, tactility, and emotional resonance.
+Vertical wooden slats and full-height panels create a rhythmic architectural backdrop that unifies the spaces. Rather than treating walls as simple partitions, they become continuous surfaces — spatial elements that conceal storage, integrate technology, and frame focal points. The design avoids visual noise; every line has intention, every junction is resolved with clarity.
+________________________________________
+Spatial Strategy
+The apartment is organized around continuity. Materials flow seamlessly from one zone to another, allowing each room to feel connected while maintaining its own identity.
+•	In the living area, a sculptural stone wall anchors the composition, contrasting with the linear wood articulation behind it. Integrated shelving and concealed lighting enhance depth without overwhelming the space.
+•	The bedroom introduces softer geometries and muted tones, translating the same architectural discipline into a more intimate expression. Vertical detailing continues through the wardrobe system, reinforcing coherence across the apartment.
+•	The bathroom reflects a refined minimalism, where floating stone surfaces, integrated lighting, and matte fixtures create a calm, grounded environment.
+Every space is defined not by excess, but by proportion, alignment, and material contrast.
+________________________________________
+Material & Light Philosophy
+Natural wood, warm stone textures, soft fabrics, and brushed metal accents form a restrained palette that emphasizes timelessness over trend. The materials are selected not only for aesthetics, but for how they age and how they feel.
+Lighting plays a central architectural role:
+•	Indirect cove lighting enhances verticality.
+•	Integrated LED strips articulate volumes and edges.
+•	Sculptural pendants introduce intimacy and focus.
+The result is a layered atmosphere — warm, contemporary, and quietly luxurious.
+________________________________________
+Architectural Identity
+This project reflects a philosophy of creating more than functional interiors. It is about crafting environments where material, light, and proportion work together to shape experience. The apartment becomes a continuous spatial narrative — calm, precise, and emotionally engaging.
+It is modern, but not cold. Minimal, yet deeply tactile. A space designed to endure — not only physically, but experientially.
+",
         details: {
-            "Client": "Republic of Chile – Ministry of Foreign Affairs",
-            "Area": "1,200 sqm",
-            "Year": "2021",
+            "Client": "Jammoul Family",
+            "Area": "360 sqm",
+            "Year": "2024",
             "Status": "Completed",
-            "Capacity": "180 pax ",
-            "Awards": "Expo 2020 Sustainability Recognition (Participant Pavilion)"
+         
         },
         images: [
+            "assets/images/Jammoul/6S.jpg",
+            "assets/images/Jammoul/3s-.jpg",
+            "assets/images/Jammoul/1S-.jpg",
             "assets/images/Jammoul/17-.jpg",
-            "assets/images/projects/Chile Pavilion/C-2.jpg",
-            "assets/images/projects/Chile Pavilion/C-3.jpg"
+            "assets/images/Jammoul/18-.jpg",
+            "assets/images/Jammoul/4.jpg",
+            "assets/images/Jammoul/5-.jpg",
+            "assets/images/Jammoul/30-.jpg"          
+            
+            
         ]
     },
     {
