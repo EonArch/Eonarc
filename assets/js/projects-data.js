@@ -13,8 +13,7 @@ const projects = [
             "Area": "360 sqm",
             "Year": "2024",
             "Status": "Completed",
-         
-        },
+                 },
         images: [
             "assets/images/Jammoul/6S.jpg",
             "assets/images/Jammoul/3s-.jpg",
@@ -24,8 +23,7 @@ const projects = [
             "assets/images/Jammoul/4.jpg",
             "assets/images/Jammoul/5-.jpg",
             "assets/images/Jammoul/30-.jpg"          
-            
-            
+                       
         ]
     },
     {
