@@ -66,4 +66,4 @@ const news = [
         image: "",
         featured: false
     },
-   
+   ];
