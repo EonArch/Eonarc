@@ -40,8 +40,8 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
 
         images: [
             "assets/images/Jammoul/6S.jpg",
-            "assets/images/Jammoul/3s-.jpg",
-            "assets/images/Jammoul/1S-.jpg",
+            "assets/images/Jammoul/3s.jpg",
+            "assets/images/Jammoul/1S.jpg",
             "assets/images/Jammoul/17-.jpg",
             "assets/images/Jammoul/18-.jpg",
             "assets/images/Jammoul/4.jpg",
