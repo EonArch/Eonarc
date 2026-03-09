@@ -84,14 +84,15 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
 
     images: [
         "assets/images/NSV/1.jpg",
+        "assets/images/NSV/2.jpg",
+        "assets/images/NSV/JP019136_3tJoBJC7_20241115101537-scaled.jpg",
         "assets/images/NSV/0C4A6750_qJKfSjHz-scaled.jpg",
         "assets/images/NSV/0C4A6949_YcEY3rey-scaled.jpg",
         "assets/images/NSV/0C4A6979_UZYRmq1t-scaled.jpg",
         "assets/images/NSV/0M8A6054_orImuwBU-scaled.jpg",
         "assets/images/NSV/0M8A6158_YChLrlSp-scaled.jpg",
-        "assets/images/NSV/FN1_2820_tKuti5DS_20241115101557-scaled.jpg",
-        "assets/images/NSV/JP019136_3tJoBJC7_20241115101537-scaled.jpg",
-        "assets/images/NSV/2.jpg"
+        "assets/images/NSV/FN1_2820_tKuti5DS_20241115101557-scaled.jpg"
+           
     ]
 }
     
