@@ -6,13 +6,12 @@ const projects = [
         location: "Rudamas-Beirut-Lebanon",
         type: "Residential",
         featured: true,
-        description: "123
-",
+        description: "123",
         details: {
             "Client": "Jammoul Family",
             "Area": "360 sqm",
             "Year": "2024",
-            "Status": "Completed",
+            "Status": "Completed"
                  },
         images: [
             "assets/images/Jammoul/6S.jpg",
@@ -23,8 +22,7 @@ const projects = [
             "assets/images/Jammoul/4.jpg",
             "assets/images/Jammoul/5-.jpg",
             "assets/images/Jammoul/30-.jpg"          
-                       
-        ]
+                               ]
     },
     {
         id: 2,
