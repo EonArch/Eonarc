@@ -22,7 +22,7 @@ Material & Light Philosophy
 Natural wood, warm stone textures, soft fabrics, and brushed metal accents form a restrained palette.
 
 Architectural Identity
-The apartment becomes a continuous spatial narrative — calm, precise, and emotionally engaging.`
+The apartment becomes a continuous spatial narrative — calm, precise, and emotionally engaging.`,
         details: {
             "Client": "Jammoul Family",
             "Area": "360 sqm",
