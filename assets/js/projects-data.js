@@ -6,7 +6,7 @@ const projects = [
         location: "Rudamas, Beirut, Lebanon",
         type: "Residential",
         featured: true,
-
+        Description:
         concept: `Warm Modern Continuity.
 The apartment is conceived as a balance between softness and structure, minimalism and warmth. 
 Clean geometry and disciplined lines form the architectural foundation, while natural materials introduce depth and tactility.
