@@ -134,39 +134,46 @@ function loadProjectDetail(projectId) {
     const project = projects.find(p => p.id == projectId);
     if (!project) return;
 
+    // Hero Section
     const projectHero = document.getElementById('project-hero');
-    const descriptionText = document.getElementById('project-description-text');
-    const detailsList = document.getElementById('project-details-list');
-    const projectGallery = document.getElementById('project-gallery');
-
     if (projectHero) {
-    projectHero.innerHTML = `
-        <div class="project-hero-image">
-            <img src="${project.images[0]}" alt="${project.title}">
-        </div>
-        <div class="project-hero-content">
-            <h1>${project.title}</h1>
-            <p class="location">${project.location}</p>
-            <p>${project.type.charAt(0).toUpperCase() + project.type.slice(1)} Project</p>
-        </div>
-    `;
-}
-
-    if (descriptionText) {
-        descriptionText.textContent = project.description;
+        projectHero.innerHTML = `
+            <div class="project-hero-image">
+                <img src="${project.cover || project.images[0]}" alt="${project.title}">
+            </div>
+            <div class="project-hero-content">
+                <h1>${project.title}</h1>
+                <p class="location">${project.location}</p>
+                <p>${project.type.charAt(0).toUpperCase() + project.type.slice(1)} Project</p>
+            </div>
+        `;
     }
 
+    // Architectural Sections
+    const conceptEl = document.getElementById('project-concept');
+    const spatialEl = document.getElementById('project-spatial');
+    const materialEl = document.getElementById('project-material');
+    const identityEl = document.getElementById('project-identity');
+
+    if (conceptEl) conceptEl.textContent = project.concept || '';
+    if (spatialEl) spatialEl.textContent = project.spatialStrategy || '';
+    if (materialEl) materialEl.textContent = project.materialLight || '';
+    if (identityEl) identityEl.textContent = project.identity || '';
+
+    // Project Details
+    const detailsList = document.getElementById('project-details-list');
     if (detailsList) {
         detailsList.innerHTML = Object.entries(project.details).map(([key, value]) => `
-            <div class="detail-item">
+            <div class="detail-item ${['Area', 'Capacity', 'Awards', 'Client'].includes(key) ? 'full-width' : ''}">
                 <span class="detail-label">${key}:</span>
                 <span>${value}</span>
             </div>
         `).join('');
     }
 
+    // Gallery (skip first image used in hero)
+    const projectGallery = document.getElementById('project-gallery');
     if (projectGallery) {
-        // Skip the first image as it's used in the hero
         const galleryImages = project.images.slice(1);
         projectGallery.innerHTML = galleryImages.map(image => `
             <div class="gallery-item">
