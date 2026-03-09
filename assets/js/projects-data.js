@@ -4,8 +4,8 @@ const projects = [
     id: 1,
     title: "Jammoul Apartment",
     location: "Rudamas, Beirut, Lebanon",
-    type: "Events",
-    category: "Exterior",
+    type: "Residential",
+    category: "Residential",
     featured: true,
 
     cover: "assets/images/Jammoul/6S.jpg",
@@ -59,8 +59,8 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     id: 1,
     title: "Neom Sports Village",
     location: "Neom-KSA",
-    type: "Residential",
-    category: "Interior",
+    type: "Events",
+    category: "Events",
     featured: true,
 
     cover: "assets/images/NSV/1.jpg",
