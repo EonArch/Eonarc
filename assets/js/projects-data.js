@@ -54,8 +54,10 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         "assets/images/Jammoul/30-.jpg"
     ]
 },
-
-    {
+];
+const projects = [
+ 
+{
     id: 1,
     title: "Neom Sports Village",
     location: "Neom-KSA",
