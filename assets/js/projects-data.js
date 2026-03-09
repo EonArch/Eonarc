@@ -4,8 +4,8 @@ const projects = [
     id: 1,
     title: "Jammoul Apartment",
     location: "Rudamas, Beirut, Lebanon",
-    type: "Residential",
-    category: "Interior",
+    type: "Events",
+    category: "Exterior",
     featured: true,
 
     cover: "assets/images/Jammoul/6S.jpg",
@@ -53,7 +53,47 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         "assets/images/Jammoul/5-.jpg",
         "assets/images/Jammoul/30-.jpg"
     ]
+},
+
+    {
+    id: 1,
+    title: "Neom Sports Village",
+    location: "Neom-KSA",
+    type: "Residential",
+    category: "Interior",
+    featured: true,
+
+    cover: "assets/images/NSV/1.jpg",
+
+    summary: "Warm modern apartment exploring continuity between wood articulation, sculptural stone surfaces, and atmospheric lighting.",
+
+    concept: `The NEOM Sports Village was conceived as a dynamic, multifunctional sports and athlete environment that supports NEOM’s ambition to become a global hub for high-performance sport, active lifestyles and international events. Rooted in the broader vision of the NEOM mega-project, the design prioritizes integration with the dramatic Red Sea coastline and surrounding landscape, creating a place that functions both as a purpose-built support facility for competitive events and as an everyday active destination. The Village is strategically positioned to serve annual sports activations while embodying NEOM’s commitment to sustainability, technology-driven development and a “leave no trace” ethos in sports and urban planning. `,
+
+    spatialStrategy: `The spatial organization of the Sports Village is driven by functionality, flow, and adaptability. The layout clusters accommodation, training, support and recreational facilities around central circulation axes that connect to competition arenas, spectator zones, and the waterfront. Public realms are conceived as flexible open spaces that accommodate both large event gatherings and everyday community interaction, encouraging movement and connectivity between venues. Athlete accommodation and operational support buildings are positioned to maximize proximity to training and competition zones, while also enabling clear wayfinding and spatial hierarchy for athletes, staff and visitors alike. This spatial logic reflects NEOM’s overarching strategy of creating accessible, human-centered environments within high-performance settings. `,
+
+    materialLight: `Material decisions for the Sports Village emphasize durability, regional responsiveness and visual legibility within the context of NEOM’s varied coastal and desert environment. Finishes and structural elements are selected to perform in harsh climatic conditions while drawing inspiration from the natural palette — earth tones, muted sands, and reflective surfaces that harmonize with the landscape. Natural light plays a key role in shaping interior atmospheres and enhancing performance spaces: broad openings, shaded courts, and carefully oriented façades allow for diffused daylight without glare, reducing reliance on artificial lighting. Outdoor spaces are crafted to capture shifting natural light patterns throughout the day, reinforcing a connection to place and supporting both athletic performance and wellbeing. `,
+
+    identity: `The architectural identity of NEOM Sports Village emerges from a fusion of functional clarity and environmental responsiveness. Rather than imposing a singular monumental form, the project resonates with NEOM’s broader vision of blending built form with landscape and activity. It is characterized by a modulated scale, clear programmatic expression, and a deliberate dialogue with the dramatic coastal topography. The use of clean lines, rhythmically articulated volumes and an emphasis on outdoor space reflects a design language that is contemporary, adaptable and rooted in context. This identity supports NEOM’s ambition to redefine how sport, community and place coexist, positioning the Sports Village as both a localized architectural response and a recognizable component of NEOM’s evolving built fabric. `,
+
+    details: {
+        Client: "Neom",
+        Area: "120,000 sqm",
+        Year: "2024",
+        Status: "Completed"
+    },
+
+    images: [
+        "assets/images/NSV/2.jpg",
+        "assets/images/NSV/0C4A6750_qJKfSjHz-scaled.jpg",
+        "assets/images/NSV/0C4A6949_YcEY3rey-scaled.jpg",
+        "assets/images/NSV/0C4A6979_UZYRmq1t-scaled.jpg",
+        "assets/images/NSV/0M8A6054_orImuwBU-scaled.jpg",
+        "assets/images/NSV/0M8A6158_YChLrlSp-scaled.jpg",
+        "assets/images/NSV/FN1_2820_tKuti5DS_20241115101557-scaled.jpg",
+        "assets/images/NSV/JP019136_3tJoBJC7_20241115101537-scaled.jpg"
+    ]
 }
+    
 ];
    
 // News data
