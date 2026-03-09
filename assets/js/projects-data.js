@@ -40,7 +40,7 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         Client: "Jammoul Family",
         Area: "360 sqm",
         Year: "2024",
-        Status: "Completed"
+        Service: "Design"
     },
 
     images: [
@@ -79,7 +79,7 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         Client: "Neom",
         Area: "120,000 sqm",
         Year: "2024",
-        Status: "Completed"
+        Service: "Site supervision"
     },
 
     images: [
