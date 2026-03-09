@@ -56,7 +56,7 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
 },
  
 {
-    id: 1,
+    id: 2,
     title: "Neom Sports Village",
     location: "Neom-KSA",
     type: "Events",
