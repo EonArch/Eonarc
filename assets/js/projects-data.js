@@ -6,7 +6,7 @@ const projects = [
         location: "Rudamas, Beirut, Lebanon",
         type: "Residential",
         featured: true,
-        Description:
+        Description:{
         concept: `Warm Modern Continuity.
 The apartment is conceived as a balance between softness and structure, minimalism and warmth. 
 Clean geometry and disciplined lines form the architectural foundation, while natural materials introduce depth and tactility.
@@ -30,6 +30,7 @@ Lighting plays a central architectural role through indirect cove lighting, inte
 Material, light, and proportion work together to shape experience.
 
 The apartment becomes a continuous spatial narrative — calm, precise, and emotionally engaging.`,
+            },
 
         details: {
             "Client": "Jammoul Family",
