@@ -104,9 +104,9 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     category: "Residential",
     featured: true,
 
-    cover: "assets/images/NSV/1.jpg",
+    cover: "assets/images/MHkoura/1.png",
 
-    summary: "Warm modern apartment exploring continuity between wood articulation, sculptural stone surfaces, and atmospheric lighting.",
+    summary: "A terraced Mediterranean residence where architecture, landscape, and light converge to create a seamless dialogue between domestic life and the surrounding terrain.",
 
     concept: `The project explores the idea of architecture as a landscape extension, where the built form emerges from the terrain rather than sitting upon it. Positioned on a sloping site, the residence is conceived as a sequence of terraced volumes that negotiate the topography while framing expansive views toward the surrounding mountains. The architecture reinterprets Mediterranean domestic traditions—arches, shaded verandas, and layered façades—through a contemporary spatial sensibility. Rather than a singular object, the house becomes a system of interconnected indoor and outdoor rooms, where landscape, structure, and habitation form a continuous living environment.`,
 
@@ -124,16 +124,10 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     },
 
     images: [
-        "assets/images/NSV/1.jpg",
-        "assets/images/NSV/2.jpg",
-        "assets/images/NSV/JP019136_3tJoBJC7_20241115101537-scaled.jpg",
-        "assets/images/NSV/0C4A6750_qJKfSjHz-scaled.jpg",
-        "assets/images/NSV/0C4A6949_YcEY3rey-scaled.jpg",
-        "assets/images/NSV/0C4A6979_UZYRmq1t-scaled.jpg",
-        "assets/images/NSV/0M8A6054_orImuwBU-scaled.jpg",
-        "assets/images/NSV/0M8A6158_YChLrlSp-scaled.jpg",
-        "assets/images/NSV/FN1_2820_tKuti5DS_20241115101557-scaled.jpg"
-           
+        "assets/images/MHkoura/1.png",
+        "assets/images/MHkoura/2.png",
+        "assets/images/MHkoura/3.png"
+        
     ]
 }
 ];
