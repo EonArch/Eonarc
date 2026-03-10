@@ -94,8 +94,48 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         "assets/images/NSV/FN1_2820_tKuti5DS_20241115101557-scaled.jpg"
            
     ]
-}
+},
+{
     
+    id: 3,
+    title: "Villa B",
+    location: "Koura-Lebanon",
+    type: "Residential",
+    category: "Residential",
+    featured: true,
+
+    cover: "assets/images/NSV/1.jpg",
+
+    summary: "Warm modern apartment exploring continuity between wood articulation, sculptural stone surfaces, and atmospheric lighting.",
+
+    concept: `The project explores the idea of architecture as a landscape extension, where the built form emerges from the terrain rather than sitting upon it. Positioned on a sloping site, the residence is conceived as a sequence of terraced volumes that negotiate the topography while framing expansive views toward the surrounding mountains. The architecture reinterprets Mediterranean domestic traditions—arches, shaded verandas, and layered façades—through a contemporary spatial sensibility. Rather than a singular object, the house becomes a system of interconnected indoor and outdoor rooms, where landscape, structure, and habitation form a continuous living environment.`,
+
+    spatialStrategy: `The spatial organization unfolds as a vertical progression embedded in the hillside. Programmatic layers step with the terrain, allowing each level to establish a direct relationship with outdoor space. Social areas extend onto shaded terraces and open patios, dissolving the threshold between interior life and garden. Circulation is intentionally articulated through exterior stairways and elevated walkways, transforming movement into a spatial experience that reveals changing perspectives of the landscape. This strategy creates a hierarchy of openness and intimacy, where public and private realms are subtly separated through elevation, orientation, and spatial sequencing.`,
+
+    materialLight: `Materiality is conceived as a dialogue between weight and lightness. A textured stone base anchors the building to the ground, expressing permanence and continuity with the terrain. Above, lighter plastered volumes and rhythmic arcades create a softer architectural presence, allowing the building to interact gently with its environment. Light becomes a fundamental design medium: deep arcades, recessed openings, and colonnaded terraces filter the intense Mediterranean sun, generating layered shadows and moments of atmospheric depth. The architecture is therefore shaped not only by form but also by the choreography of light, shade, and seasonal variation. `,
+
+    identity: `The architectural identity emerges from a reinterpretation of Mediterranean archetypes through contemporary composition. Arches, colonnades, and pitched roofs are not used as nostalgic references but as climatic and spatial devices that mediate between interior and exterior realms. The stepped massing, articulated terraces, and layered façades produce a composition that resonates with the scale of the landscape while maintaining a strong domestic character. The result is an architecture defined by timelessness, spatial continuity, and a deep relationship with its setting, where the boundaries between architecture, garden, and horizon gradually dissolve.  `,
+
+    details: {
+        Client: "MH",
+        Area: "1600 sqm",
+        Year: "2020",
+        Service: "Design"
+    },
+
+    images: [
+        "assets/images/NSV/1.jpg",
+        "assets/images/NSV/2.jpg",
+        "assets/images/NSV/JP019136_3tJoBJC7_20241115101537-scaled.jpg",
+        "assets/images/NSV/0C4A6750_qJKfSjHz-scaled.jpg",
+        "assets/images/NSV/0C4A6949_YcEY3rey-scaled.jpg",
+        "assets/images/NSV/0C4A6979_UZYRmq1t-scaled.jpg",
+        "assets/images/NSV/0M8A6054_orImuwBU-scaled.jpg",
+        "assets/images/NSV/0M8A6158_YChLrlSp-scaled.jpg",
+        "assets/images/NSV/FN1_2820_tKuti5DS_20241115101557-scaled.jpg"
+           
+    ]
+}
 ];
    
 // News data
