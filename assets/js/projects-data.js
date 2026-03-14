@@ -160,7 +160,7 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
 
     images: [
         "assets/images/ZK-575/2.png",
-        "assets/images/ZK-575/1.png,
+        "assets/images/ZK-575/1.png",
         "assets/images/ZK-575/3.png"
             ]
 }
