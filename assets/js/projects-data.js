@@ -129,6 +129,41 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         "assets/images/MHkoura/3.png"
         
     ]
+},
+    {
+    
+    id: 4,
+    title: "ZK-575",
+    location: "Jounieh",
+    type: "Residential",
+    category: "Residential",
+    featured: true,
+
+    cover: "assets/images/ZK-575/2.png",
+
+    summary: "A contemporary hillside residence defined by bold geometric frames and expansive glazing, where layered volumes, refined materials, and controlled light create a seamless dialogue between architecture, landscape, and panoramic city views.",
+
+    concept: `The project explores a contemporary residential architecture defined by clear geometric volumes and strong vertical frames. Dark structural outlines wrap large glazed surfaces, creating a dynamic contrast between solidity and transparency. Positioned on a hillside, the building emerges from the terrain as a sculpted object that frames panoramic views of the surrounding landscape.`,
+
+    spatialStrategy: `The spatial organization responds to the sloped site by embedding the parking level within the terrain while elevating the main living spaces above the street. Large corner glazing and recessed balconies extend the interior outward, maximizing daylight and views while creating a seamless relationship between interior spaces and the landscape.`,
+
+    materialLight: `A restrained material palette emphasizes contrast and depth. Dark structural frames articulate the façade, while lighter stone or concrete surfaces anchor the building within the site. Floor-to-ceiling glazing maximizes natural light, and warm interior lighting transforms the building into a luminous presence at night. `,
+
+    identity: `The architectural identity is defined by strong geometry, material precision, and vertical rhythm. The framed façade becomes the project’s signature element, expressing a contemporary language that merges minimalism, spatial openness, and contextual integration. `,
+
+    details: {
+        Client: "ZK",
+        Area: "2400 sqm",
+        Year: "2025",
+        Service: "Design"
+    },
+
+    images: [
+        "assets/images/ZK-575/2.png",
+        "assets/images/ZK-575/1.png,
+        "assets/images/ZK-575/3.png"
+        
+    ]
 }
 ];
    
