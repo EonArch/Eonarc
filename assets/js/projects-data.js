@@ -172,7 +172,7 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     category: "Residential",
     featured: true,
 
-    cover: "assets/images/ZK-575/2.png",
+    cover: "assets/images/jomaa/w1.png",
 
     summary: "A refined horizontal sanctuary where a floating roof, transparent boundaries, and warm materiality merge to create a timeless living experience immersed in light and nature",
 
@@ -192,9 +192,11 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     },
 
     images: [
-        "assets/images/ZK-575/2.png",
-        "assets/images/ZK-575/1.png",
-        "assets/images/ZK-575/3.png"
+        "assets/images/jomaa/w1.png",
+        "assets/images/jomaa/w2.png",
+        "assets/images/jomaa/w3.png",
+        "assets/images/jomaa/w4.png",
+        "assets/images/jomaa/w5.png"
             ]
 }
 ];
