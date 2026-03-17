@@ -163,6 +163,39 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         "assets/images/ZK-575/1.png",
         "assets/images/ZK-575/3.png"
             ]
+},
+    {    
+    id: 5,
+    title: "Guest House J",
+    location: "Faqra",
+    type: "Residential",
+    category: "Residential",
+    featured: true,
+
+    cover: "assets/images/ZK-575/2.png",
+
+    summary: "A refined horizontal sanctuary where a floating roof, transparent boundaries, and warm materiality merge to create a timeless living experience immersed in light and nature",
+
+    concept: `At EonArc, architecture is conceived as an experience of time, atmosphere, and continuity. This project emerges as a horizontal sanctuary—where the built form dissolves into its environment, and the roof becomes the primary architectural gesture. It is not a house as an object, but a spatial condition: a quiet platform for living, framed by nature, light, and material authenticity.`,
+
+    spatialStrategy: `The space is organized as a fluid continuum rather than a sequence of rooms. A single open volume hosts living, cooking, and gathering, anchored by a central core that acts as both functional and emotional heart. The perimeter is released through full-height glazing, erasing enclosure and extending the interior toward the landscape. Structure is reduced to slender frames, allowing space to flow uninterrupted beneath a hovering plane, reinforcing the sense of weightlessness and openness.`,
+
+    materialLight: `Materiality follows a philosophy of contrast and harmony—raw yet refined, minimal yet tactile. The ceiling, expressed in linear wood articulation, introduces rhythm and warmth, while stone elements ground the space with permanence and precision. Glass operates as a silent mediator, capturing reflections, light transitions, and seasonal change. Light—both natural and artificial—is treated as a building material: daylight washes surfaces softly, while integrated linear lighting and suspended elements create a controlled, intimate nocturnal atmosphere. `,
+
+    identity: `The identity reflects EonArc’s vision of timeless minimalism—where architecture is reduced to its essence yet enriched through atmosphere and detail. It is a balance between clarity and emotion, precision and warmth. The project embodies a contemporary retreat that transcends trend, offering a serene, immersive living experience where space, light, and material exist in continuous dialogue.`,
+
+    details: {
+        Client: "FJ",
+        Area: "120 sqm",
+        Year: "2024",
+        Service: "Design"
+    },
+
+    images: [
+        "assets/images/ZK-575/2.png",
+        "assets/images/ZK-575/1.png",
+        "assets/images/ZK-575/3.png"
+            ]
 }
 ];
    
