@@ -195,8 +195,8 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         "assets/images/jomaa/w1.png",
         "assets/images/jomaa/w2.png",
         "assets/images/jomaa/w3.png",
-        "assets/images/jomaa/w4.png",
-        "assets/images/jomaa/w5.png"
+        "assets/images/jomaa/w4.jpg",
+        "assets/images/jomaa/w5.jpg"
             ]
 }
 ];
