@@ -51,7 +51,7 @@ nav a:hover { color: #ccc; }
 .hero-image {
     position: absolute;
     inset: 0;
-    background: url('../images/hero.jpg') center/cover no-repeat;
+    background: url('assets/images/main/main pagejpeg.jpg') center/cover no-repeat;
     background-size: cover;
     z-index: 0;
     filter: brightness(0.75) contrast(1.05);
