@@ -211,10 +211,7 @@ header.transparent-header.scrolled .mobile-menu-btn {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: 
-        linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.65)),
-        url('assets/images/main/main-page.jpg') center/cover no-repeat;
-    z-index: 0;
+    background:background-image: url('/assets/images/main/main-page.jpg');
 }
 
 .hero-content {
