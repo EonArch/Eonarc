@@ -201,36 +201,20 @@ header.transparent-header.scrolled .mobile-menu-btn {
 
 /* Hero Section */
 .hero {
-    height: 100vh;
-    display: flex;
-    align-items: center;
     position: relative;
-    overflow: hidden;
+    height: 100vh;
 }
 
 .hero-bg {
     position: absolute;
     inset: 0;
-    background:red
+    background: red;
 }
 
 .hero-content {
     position: relative;
-    z-index: 1;
-    color: #fff;
-    max-width: 600px;
-}
-
-.hero-content h1 {
-    font-size: 48px;
-    margin-bottom: 20px;
-    line-height: 1.2;
-}
-
-.hero-content p {
-    font-size: 18px;
-    margin-bottom: 30px;
-    opacity: 0.9;
+    z-index: 2;
+    color: white;
 }
 
 /* Page Header */
