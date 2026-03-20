@@ -204,8 +204,8 @@ header.transparent-header.scrolled .mobile-menu-btn {
     position: relative;
     height: 100vh;
     overflow: hidden;
-    align-item: flex-end;
-    display:flex;
+    display: flex;
+    align-items: flex-end; /* pushes content down */
 }
 
 .hero-bg {
@@ -221,28 +221,20 @@ header.transparent-header.scrolled .mobile-menu-btn {
     position: relative;
     z-index: 2;
     color: #fff;
-    max-width:600px; 
-}
-
-.hero-content h {
-    font-size: 48px;
-    margin-bottom: 100px;
-    line-height: 1.2;
+    max-width: 600px;
+    margin-bottom: 120px; /* control distance from bottom */
 }
 
 .hero-content h1 {
     font-size: 48px;
-    margin-bottom: 100px;
+    margin-bottom: 20px;
     line-height: 1.2;
 }
 
 .hero-content p {
     font-size: 18px;
-    margin-bottom: 30px;
-    line-height: 0.9;
-    
+    line-height: 1.5;
 }
-
 /* Page Header */
 .page-header {
     padding: 100px 0 80px;
