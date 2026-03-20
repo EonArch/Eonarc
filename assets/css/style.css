@@ -204,7 +204,7 @@ header.transparent-header.scrolled .mobile-menu-btn {
     position: relative;
     height: 100vh;
     overflow: hidden;
-    align-item:center;
+    align-item: flex-end;
     display:flex;
 }
 
