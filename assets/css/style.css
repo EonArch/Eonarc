@@ -203,12 +203,16 @@ header.transparent-header.scrolled .mobile-menu-btn {
 .hero {
     position: relative;
     height: 100vh;
+    overflow: hidden;
 }
 
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: assets/images/main/main-page.jpg;
+    background: 
+        linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.7)),
+        url('/assets/images/main/main-page.jpg') center/cover no-repeat;
+    z-index: 0;
 }
 
 .hero-content {
@@ -216,7 +220,6 @@ header.transparent-header.scrolled .mobile-menu-btn {
     z-index: 2;
     color: white;
 }
-
 /* Page Header */
 .page-header {
     padding: 100px 0 80px;
