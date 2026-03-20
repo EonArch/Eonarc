@@ -208,7 +208,7 @@ header.transparent-header.scrolled .mobile-menu-btn {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: red;
+    background: assets/images/main/main-page.jpg;
 }
 
 .hero-content {
