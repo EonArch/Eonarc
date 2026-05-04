@@ -198,6 +198,41 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         "assets/images/jomaa/w4.jpg",
         "assets/images/jomaa/w5.jpg"
             ]
+},
+    {    
+    id: 6,
+    title: "Layali Al Diriyah",
+    location: "KSA",
+    type: "Event",
+    category: "Event",
+    featured: true,
+
+    cover: "assets/images/jomaa/w1.png",
+
+    summary: "Layali Diriyah is a contemporary open-air hospitality space that reinterprets traditional Najdi architecture through light, material warmth, and fluid social spaces to create an immersive cultural night experience.",
+
+    concept: `Layali Diriyah is conceived as a contemporary reinterpretation of traditional Najdi gathering spaces where architecture becomes a stage for social ritual. The design merges hospitality, culture, and landscape into an immersive night time experience, balancing authenticity with a curated, almost cinematic atmosphere.`,
+
+    spatialStrategy: `The project is organized as a sequence of semi-open pavilions rather than a closed building. Light structures frame space without enclosing it, allowing fluid movement between dining, social, and lounge zones. Centralized anchors like the illuminated bar cube act as visual and social focal points, while layered seating creates intimacy within an open plan.`,
+
+    materialLight: `Materiality is warm, tactile, and regionally grounded wood, textured plaster, woven elements, and soft fabrics. Light is the primary architectural tool: diffused lanterns, perforated panels, and integrated wall niches create depth, rhythm, and a strong nocturnal identity. The contrast between shadow and glow defines the spatial experience more than solid form.`,
+
+    identity: `The identity lies in its balance heritage without nostalgia, modernity without detachment. It reflects Diriyah’s cultural DNA through abstraction: geometric patterns, earthy tones, and crafted details, all reinterpreted into a contemporary hospitality language that feels both rooted and elevated.`,
+
+    details: {
+        Client: "Recchie",
+        Area: "40000 sqm",
+        Year: "2025",
+        Service: "Site supervision"
+    },
+
+    images: [
+        "assets/images/jomaa/w1.png",
+        "assets/images/jomaa/w2.png",
+        "assets/images/jomaa/w3.png",
+        "assets/images/jomaa/w4.jpg",
+        "assets/images/jomaa/w5.jpg"
+            ]
 }
 ];
    
