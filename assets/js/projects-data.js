@@ -207,7 +207,7 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     category: "Event",
     featured: true,
 
-    cover: "assets/images/jomaa/w1.png",
+    cover: "assets/images/layali/LD5.jpg",
 
     summary: "Layali Diriyah is a contemporary open-air hospitality space that reinterprets traditional Najdi architecture through light, material warmth, and fluid social spaces to create an immersive cultural night experience.",
 
@@ -227,11 +227,11 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     },
 
     images: [
-        "assets/images/jomaa/w1.png",
-        "assets/images/jomaa/w2.png",
-        "assets/images/jomaa/w3.png",
-        "assets/images/jomaa/w4.jpg",
-        "assets/images/jomaa/w5.jpg"
+        "assets/images/layali/LD5.jpg",
+        "assets/images/layali/LD1.jpg",
+        "assets/images/layali/LD2.jpg",
+        "assets/images/layali/LD3.jpg",
+        "assets/images/layali/LD4.jpg"
             ]
 }
 ];
