@@ -242,7 +242,7 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     category: "Residential",
     featured: true,
 
-    cover: "assets/images/layali/LD5.jpg",
+    cover: "assets/images/SARK/RS1.png",
 
     summary: "A bold contemporary villa shaped by sculpted C-form volumes, where framed spaces, layered transparency, and refined lighting create a striking balance between privacy, openness, and architectural presence.",
 
@@ -255,11 +255,20 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     identity: `The identity is expressed through strong lines, framed perspectives, and geometric clarity—minimal yet expressive, where the architecture stands out through proportion, composition, and controlled openness rather than contextual integration.`,
 
     details: {
-        Client: "Recchie",
-        Area: "40000 sqm",
-        Year: "2025",
-        Service: "Site supervision"
+        Client: "MS",
+        Area: "1500",
+        Year: "2023",
+        Service: "Design"
     },
+ images: [
+        "assets/images/SARK/RS1.png",
+        "assets/images/SARK/RS2.png",
+        "assets/images/SARK/RS3.png",
+        "assets/images/SARK/RS4.png",
+        "assets/images/SARK/RS5.png"
+            ]
+},
+         
 ];
    
 // News data
