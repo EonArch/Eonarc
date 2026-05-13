@@ -233,7 +233,33 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
         "assets/images/layali/LD3.jpg",
         "assets/images/layali/LD4.jpg"
             ]
-}
+},
+     {    
+    id: 7,
+    title: "Villa S",
+    location: "Qornet el Hamra",
+    type: "Residential",
+    category: "Residential",
+    featured: true,
+
+    cover: "assets/images/layali/LD5.jpg",
+
+    summary: "A bold contemporary villa shaped by sculpted C-form volumes, where framed spaces, layered transparency, and refined lighting create a striking balance between privacy, openness, and architectural presence.",
+
+    concept: `A sculpted contemporary villa defined by clean C-shaped volumes that frame space, privacy, and internal views—where architecture becomes an interplay of solids and voids rather than a response to landscape.`,
+
+    spatialStrategy: `The composition revolves around layered horizontal slabs and framed openings, creating controlled visual corridors toward the pool and outdoor living areas. The C-shaped geometry generates semi-enclosed zones, balancing openness with privacy in a dense residential context.`,
+
+    materialLight: `A contrast between solid masses (plaster and stone) and transparent planes (full-height glazing) defines the architectural language. Light is used to articulate edges and volumes—natural light softens the interiors by day, while integrated lighting highlights the geometry and depth of the composition at night.`,
+
+    identity: `The identity is expressed through strong lines, framed perspectives, and geometric clarity—minimal yet expressive, where the architecture stands out through proportion, composition, and controlled openness rather than contextual integration.`,
+
+    details: {
+        Client: "Recchie",
+        Area: "40000 sqm",
+        Year: "2025",
+        Service: "Site supervision"
+    },
 ];
    
 // News data
