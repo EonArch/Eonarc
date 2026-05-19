@@ -187,7 +187,7 @@ The apartment becomes a continuous spatial narrative — calm, precise, and emot
     details: {
         Client: "FJ",
         Area: "120 sqm",
-        Year: "2024",
+        Year: "2023",
         Service: "Design"
     },
 
